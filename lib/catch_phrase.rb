@@ -1,3 +1,4 @@
 def catch_phrase(phrase)
-  puts phrase
+  local_phrase = phrase
+  puts local_phrase
 end
